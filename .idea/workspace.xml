@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6fe278d-1ade-4a04-83c5-d18ce66b8829" name="Default Changelist" comment="mybatis demo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MyBatisDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +74,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main-Application" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.lbs0912.app.Main" />
-      <module name="MybatisDemo01" />
+      <module name="MyBatisDemo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lbs0912.app.*" />
@@ -87,7 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main-Application" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586964675123</updated>
       <workItem from="1586964677332" duration="3269000" />
+      <workItem from="1586968333413" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis demo">
       <created>1586967811560</created>
@@ -121,7 +124,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -132,6 +137,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="mybatis demo" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="494" y="186" key="#Main" timestamp="1586968370626">
+      <screen x="0" y="23" width="1631" height="1027" />
+    </state>
+    <state x="494" y="186" width="669" height="700" key="#Main-Application" timestamp="1586968406567">
+      <screen x="0" y="23" width="1631" height="1027" />
+    </state>
+    <state x="494" y="186" width="669" height="700" key="#Main-Application/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586968406567" />
+    <state x="494" y="186" key="#Main/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586968370626" />
     <state x="416" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586967153788">
       <screen x="0" y="23" width="1630" height="1027" />
     </state>
