@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6fe278d-1ade-4a04-83c5-d18ce66b8829" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lbs0912/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lbs0912/model/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/DB.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/lbs0912/model/mapper/CountryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+    <list default="true" id="d6fe278d-1ade-4a04-83c5-d18ce66b8829" name="Default Changelist" comment="mybatis demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,18 +101,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586964675123</updated>
-      <workItem from="1586964677332" duration="3032000" />
+      <workItem from="1586964677332" duration="3269000" />
     </task>
+    <task id="LOCAL-00001" summary="mybatis demo">
+      <created>1586967811560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586967811560</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mybatis demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586967153788">
       <screen x="0" y="23" width="1630" height="1027" />
     </state>
     <state x="416" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1057.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1586967153788" />
+    <state x="0" y="23" width="1631" height="1027" key="CommitChangelistDialog2" timestamp="1586967840586">
+      <screen x="0" y="23" width="1631" height="1027" />
+    </state>
+    <state x="0" y="23" width="1631" height="1027" key="CommitChangelistDialog2/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586967840586" />
     <state width="1586" height="399" key="GridCell.Tab.0.bottom" timestamp="1586967744328">
       <screen x="0" y="23" width="1631" height="1027" />
     </state>

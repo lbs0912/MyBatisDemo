@@ -7,3 +7,4 @@
 		select id, countryname, countrycode from country
 	</select>
 </mapper>
+
