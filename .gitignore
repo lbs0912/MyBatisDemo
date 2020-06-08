@@ -5,3 +5,4 @@
 ## Build generated
 target/
 /target
+.idea/
