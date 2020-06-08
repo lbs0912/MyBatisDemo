@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6fe278d-1ade-4a04-83c5-d18ce66b8829" name="Default Changelist" comment="mybatis demo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lbs0912/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lbs0912/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lbs0912/model/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lbs0912/model/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lbs0912/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/model/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lbs0912/model/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DB.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/model/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/model/mapper/CountryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
