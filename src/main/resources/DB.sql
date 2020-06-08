@@ -8,3 +8,9 @@ create table country
 show tables from mybatis;
 desc country;
 insert country(countryname, countrycode) values('中国', 'CN'),('美国', 'US'),('俄罗斯','RU'),('英国', 'GB'),('法国', 'FR'),('中国香港', 'HK');
+
+create table students (
+    id  int(5) primary key,
+    name varchar(10),
+    sal double(8,2)
+);

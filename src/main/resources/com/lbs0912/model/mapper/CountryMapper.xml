@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <!-- 定义当前XML的命名空间 -->
-<mapper namespace="com.lbs0912.model.mapper.CountryMapper">
-    <!-- ID属性，定义当前select查询的唯一ID；resultType，定义当前查询的返回值类型，如果没有设置别名，则需要写成cn.mybatis.model.Country -->
-    <select id="selectAll" resultType="Country">
+<mapper namespace="com.lbs0912.model.Country">
+    <!-- ID属性，定义当前select查询的唯一ID；resultType，定义当前查询的返回值类型，如果没有设置别名，则需要写成com.lbs0912.model.Country -->
+    <select id="selectAll" resultType="com.lbs0912.model.Country">
 		select id, countryname, countrycode from country
 	</select>
 </mapper>
