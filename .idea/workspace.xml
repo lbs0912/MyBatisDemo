@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6fe278d-1ade-4a04-83c5-d18ce66b8829" name="Default Changelist" comment="mybatis demo">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lbs0912/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lbs0912/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lbs0912/model/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lbs0912/model/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lbs0912/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lbs0912/model/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lbs0912/model/Country.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -61,12 +67,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/com/lbs0912/model/mapper" />
       <recent name="$PROJECT_DIR$/src/main/resources/com.lbs0912.model.mapper" />
@@ -92,6 +102,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -104,6 +117,7 @@
       <updated>1586964675123</updated>
       <workItem from="1586964677332" duration="3269000" />
       <workItem from="1586968333413" duration="1986000" />
+      <workItem from="1591625478097" duration="890000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis demo">
       <created>1586967811560</created>
@@ -153,27 +167,31 @@
     </state>
     <state x="0" y="-1057" key="CommitChangelistDialog2/0.-1057.1920.1057/0.23.1628.1027@0.-1057.1920.1057" timestamp="1586970485794" />
     <state x="0" y="23" width="1631" height="1027" key="CommitChangelistDialog2/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586967840586" />
-    <state width="1878" height="110" key="GridCell.Tab.0.bottom" timestamp="1586970371048">
-      <screen x="0" y="-1057" width="1920" height="1057" />
+    <state width="1878" height="404" key="GridCell.Tab.0.bottom" timestamp="1591626245976">
+      <screen x="-41" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="404" key="GridCell.Tab.0.bottom/-41.-1057.1920.1057/0.23.1624.1027@-41.-1057.1920.1057" timestamp="1591626245976" />
     <state width="1878" height="110" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/0.23.1630.1027@0.-1057.1920.1057" timestamp="1586970371048" />
     <state width="1586" height="399" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1586967517929" />
     <state width="1586" height="399" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586967744328" />
-    <state width="1878" height="110" key="GridCell.Tab.0.center" timestamp="1586970371047">
-      <screen x="0" y="-1057" width="1920" height="1057" />
+    <state width="1878" height="404" key="GridCell.Tab.0.center" timestamp="1591626245975">
+      <screen x="-41" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="404" key="GridCell.Tab.0.center/-41.-1057.1920.1057/0.23.1624.1027@-41.-1057.1920.1057" timestamp="1591626245975" />
     <state width="1878" height="110" key="GridCell.Tab.0.center/0.-1057.1920.1057/0.23.1630.1027@0.-1057.1920.1057" timestamp="1586970371047" />
     <state width="1586" height="399" key="GridCell.Tab.0.center/0.-1057.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1586967517927" />
     <state width="1586" height="399" key="GridCell.Tab.0.center/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586967744327" />
-    <state width="1878" height="110" key="GridCell.Tab.0.left" timestamp="1586970371047">
-      <screen x="0" y="-1057" width="1920" height="1057" />
+    <state width="1878" height="404" key="GridCell.Tab.0.left" timestamp="1591626245974">
+      <screen x="-41" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="404" key="GridCell.Tab.0.left/-41.-1057.1920.1057/0.23.1624.1027@-41.-1057.1920.1057" timestamp="1591626245974" />
     <state width="1878" height="110" key="GridCell.Tab.0.left/0.-1057.1920.1057/0.23.1630.1027@0.-1057.1920.1057" timestamp="1586970371047" />
     <state width="1586" height="399" key="GridCell.Tab.0.left/0.-1057.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1586967517927" />
     <state width="1586" height="399" key="GridCell.Tab.0.left/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586967744327" />
-    <state width="1878" height="110" key="GridCell.Tab.0.right" timestamp="1586970371047">
-      <screen x="0" y="-1057" width="1920" height="1057" />
+    <state width="1878" height="404" key="GridCell.Tab.0.right" timestamp="1591626245975">
+      <screen x="-41" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="404" key="GridCell.Tab.0.right/-41.-1057.1920.1057/0.23.1624.1027@-41.-1057.1920.1057" timestamp="1591626245975" />
     <state width="1878" height="110" key="GridCell.Tab.0.right/0.-1057.1920.1057/0.23.1630.1027@0.-1057.1920.1057" timestamp="1586970371047" />
     <state width="1586" height="399" key="GridCell.Tab.0.right/0.-1057.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1586967517928" />
     <state width="1586" height="399" key="GridCell.Tab.0.right/0.-1057.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1586967744328" />
@@ -185,5 +203,48 @@
       <screen x="0" y="23" width="1630" height="1027" />
     </state>
     <state x="102" y="123" width="1428" height="827" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.-1057.1920.1057/0.23.1630.1027@0.23.1630.1027" timestamp="1586964916572" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
   </component>
 </project>

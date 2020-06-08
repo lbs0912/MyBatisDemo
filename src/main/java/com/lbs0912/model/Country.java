@@ -1,11 +1,14 @@
 package com.lbs0912.model;
 
 
+/**
+ * @author lbs
+ */
 public class Country {
 
     private int id;
-    private String countryname;
-    private String countrycode;
+    private String countryName;
+    private String countryCode;
 
     public int getId() {
         return id;
@@ -15,20 +18,20 @@ public class Country {
         this.id = id;
     }
 
-    public String getCountryname() {
-        return countryname;
+    public String getCountryName() {
+        return countryName;
     }
 
-    public void setCountryname(String countryname) {
-        this.countryname = countryname;
+    public void setCountryName(String countryName) {
+        this.countryName = countryName;
     }
 
-    public String getCountrycode() {
-        return countrycode;
+    public String getCountryCode() {
+        return countryCode;
     }
 
-    public void setCountrycode(String countrycode) {
-        this.countrycode = countrycode;
+    public void setCountryCode(String countryCode) {
+        this.countryCode = countryCode;
     }
 
 }

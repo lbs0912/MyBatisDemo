@@ -12,6 +12,9 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import com.lbs0912.model.Country;
 
 
+/**
+ * @author lbs
+ */
 public class Main {
 
     private static SqlSessionFactory sqlSessionFactory;
@@ -49,7 +52,7 @@ public class Main {
      */
     private static void printCountryList(List<Country> countryList) {
         for (Country country : countryList) {
-            System.out.printf("%-4d%4s%4s\n", country.getId(), country.getCountryname(), country.getCountrycode());
+            System.out.printf("%-4d%4s%4s\n", country.getId(), country.getCountryName(), country.getCountryCode());
         }
     }
 }

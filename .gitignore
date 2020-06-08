@@ -1,0 +1,7 @@
+
+# Exclude OS X folder attributes
+.DS_Store
+
+## Build generated
+target/
+
